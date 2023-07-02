@@ -1,6 +1,5 @@
 ## Web App Dashboard
 
-This is the README file for the Web App Dashboard project. 
 The Web App Dashboard is a responsive web application that provides a user interface for monitoring 
 and managing various aspects of an app. It includes features such as a main header, navigation menu, 
 search functionality, alerts, charts, and social stats.
